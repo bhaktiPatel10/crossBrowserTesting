@@ -29,7 +29,7 @@ boolean isHeadless = Boolean.parseBoolean(System.getProperty("headless"));
                 options.addArguments("--headless");
                 options.setHeadless(isHeadless);
                 driver = new ChromeDriver(options);
-                System.out.println("hello :: 1");
+                System.out.println("hello :: 12");
 //                DesiredCapabilities cap1 = new DesiredCapabilities();
 //                cap1.setBrowserName(browser);
 //                driver = new RemoteWebDriver(new URL("http://3.84.232.113:4444/wd/hub"),cap1);
