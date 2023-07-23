@@ -1,2 +1,2 @@
 # crossBrowserTesting
-CrossBrowserTesting in Headless Mode Maven Project using Jenkins and upload Test report on AWS S3.
+CrossBrowserTesting of Headless Mode Maven Project using Jenkins and upload Test report on AWS S3.
